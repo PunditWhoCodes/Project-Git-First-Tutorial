@@ -1,1 +1,1 @@
-console.log("cinfiguration of file");
+console.log("configuration of file:");
